@@ -7,3 +7,6 @@ Repositório de demonstração
 ## Uso do repositório
 
 Este repos será de curta duração e será utilizado apenas para demonstrar as funcionalidades básicas de Git e GitHub.
+### Instalação da aplicação
+```Javascript
+console.log("Hello World!")
